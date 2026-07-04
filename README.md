@@ -1,7 +1,7 @@
 
 Welcome ----
 
-I work at the intersection of **software engineering**, **data / machine learning**, and **quantitative problem‑solving**. Many of my projects come from curiosity about how things work (markets, systems, languages) and a preference for building working prototypes rather than just reading about them.
+I work at the intersection of **software engineering**, **data / machine learning**, and **quantitative problem‑solving**. Many of my projects come from curiosity about how things work (markets, systems, languages) and a desire to building systems rather than reading about them.
 
 ---
 
